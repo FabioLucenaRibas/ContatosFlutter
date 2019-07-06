@@ -1,5 +1,14 @@
 # fabio_lucena_ribas
 
+# Implementações:
+- Validação de formulario na Inclusão e alteração do contato;
+- Pop de confirmação na Inclusão, alteração e exclusão após Dismiss;
+- Desfazer a exclusão;
+- Mascara no TextFormField para;
+- Possibilidade de redirecionar para aplicativos de ligação, sms e email;
+- Consumo de API para buscar endereço completo aparti do CEP;
+- SQLite;
+
 A new Flutter application.
 
 ## Getting Started
